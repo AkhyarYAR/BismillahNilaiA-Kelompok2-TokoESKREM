@@ -5,7 +5,7 @@
 package Class;
 
 /**
- * Class banana (subclass dari clas menu)
+ * Class banana (subclass dari class menu)
  * memiliki atribut banana dan subTotal
  * 
  */
