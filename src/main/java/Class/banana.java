@@ -5,8 +5,9 @@
 package Class;
 
 /**
- *
- * @author USER DK
+ * Class banana (subclass dari clas menu)
+ * memiliki atribut banana dan subTotal
+ * 
  */
 public class banana extends menu {
     private int banana = 0;
@@ -45,14 +46,14 @@ public class banana extends menu {
     }
     
     /**
-     * menambah jumlah banana
+     * menambah jumlah es krim rasa banana
      */
     public void addBanana(){
         this.banana += 1;
     }
     
     /**
-     * mengurangi jumlah banana
+     * mengurangi jumlah es krim banana
      */
     public void minBanana(){
         this.banana -= 1;
