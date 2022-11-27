@@ -46,14 +46,14 @@ public class blueberry extends menu {
     }
     
     /**
-    * menambah jumlah es krim rasa blueberry
+    * menambah jumlah blueberry
     */
     public void addBlueberry(){
         this.blueberry += 1;
     }
     
     /**
-    * mengurangi jumlah es krim blueberry
+    * mengurangi jumlah blueberry
     */
     public void minBlueberry(){
         this.blueberry -= 1;
