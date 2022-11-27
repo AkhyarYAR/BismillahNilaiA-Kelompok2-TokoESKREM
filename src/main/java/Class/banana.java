@@ -46,14 +46,14 @@ public class banana extends menu {
     }
     
     /**
-     * menambah jumlah es krim rasa banana
+     * menambah jumlah banana
      */
     public void addBanana(){
         this.banana += 1;
     }
     
     /**
-     * mengurangi jumlah es krim banana
+     * mengurangi jumlah banana
      */
     public void minBanana(){
         this.banana -= 1;
