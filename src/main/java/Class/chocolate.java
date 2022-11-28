@@ -20,7 +20,7 @@ public class chocolate extends menu {
         super();
     }
     
-    **
+    /**
     * memanggil constractor dgn parameter
     * @param nama
     * @param harga
