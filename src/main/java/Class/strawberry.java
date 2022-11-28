@@ -59,7 +59,7 @@ public class strawberry extends menu {
         this.strawberry -= 1;
     }
     
-    **
+    /**
     * mengembalikan nilai sub total
     * @return
     */
